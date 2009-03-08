@@ -1,0 +1,9 @@
+staging:
+  aws_access_key: 184KFDHKEJT13YPHB702
+  aws_secret_access_key: Ed7qzOc9+KQruCTOIqsCirqI4+sgd2KeX81AKo3B
+  bucket_base_name: demozone
+
+production:
+  aws_access_key: 184KFDHKEJT13YPHB702 
+  aws_secret_access_key: Ed7qzOc9+KQruCTOIqsCirqI4+sgd2KeX81AKo3B 
+  bucket_base_name: demozone
